@@ -1,0 +1,8 @@
+Learning Scrapy 2016 (4.6/8)
+Data Visualization with Python and JavaScript: Scrape, Clean, Explore & Transform Your Data 2016 (4.0/4)
+Web Scraping with Python: Collecting Data from the Modern Web 2015 (4.6/33)
+Web Scraping with Python: Scrape data from any website with the power of Python 2015 (4.4/9)
+Learn Web Scraping With Python In A Day: The Ultimate Crash Course to Learning the Basics of Web Scraping With Python In No Time 2015 (4.2/17)
+Automated Data Collection with R: A Practical Guide to Web Scraping and Text Mining 2015 (4.0/5)
+Mining the Social Web: Data Mining Facebook, Twitter, LinkedIn, Google+, GitHub, and More 2nd edition 2014 (4.5/60)
+Mining the Social Web: Analyzing Data from Facebook, Twitter, LinkedIn, and Other Social Media Sites 2011 (4.1/30)
